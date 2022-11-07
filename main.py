@@ -103,6 +103,7 @@ def main():
     html_temp = """
     <body style="background-color:red;">
     <div style="background-color:teal ;padding:10px">
+    <h2 style="color:black;text-align:center;">R204450W HAI KASIRAI</h2>
     <h2 style="color:black;text-align:center;">NLP WORD PREDICTION</h2>
     </div>
     </body>
