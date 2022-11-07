@@ -98,12 +98,12 @@ def main():
 
     """Object detection App"""
 
-    st.title("Next Word Prediction App")
+    st.title("NLP Next Word Prediction App")
 
     html_temp = """
     <body style="background-color:red;">
     <div style="background-color:teal ;padding:10px">
-    <h2 style="color:white;text-align:center;">Next word Prediction APP</h2>
+    <h2 style="color:white;text-align:center;">NLP WORD PREDICTION</h2>
     </div>
     </body>
     """
